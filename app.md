@@ -32,4 +32,4 @@
 + [InsomniaX](http://semaja2.net/projects/insomniaxinfo/) Disable sleep mode
 
 ### Fun
-+ [Openemu](http://openemu.org/)
++ [Openemu](http://openemu.org/) GBA/NES game emulator

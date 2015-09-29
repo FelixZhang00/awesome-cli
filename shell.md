@@ -19,6 +19,7 @@
 + [figlet](http://www.figlet.org/) Make large letters
 + [tig](https://github.com/jonas/tig) Text-mode interface for git
 + [aria2](http://aria2.sourceforge.net/) Download utility
++ [axel](http://axel.alioth.debian.org/) Download utility
 + [w3m](http://w3m.sourceforge.net/) Browse webpages in command line
 + [pandoc](http://pandoc.org/) Universal file converter
 + [jp2a](https://csl.name/jp2a/) Convert jpg to ASCII
@@ -31,6 +32,7 @@
 + [licen](https://github.com/lord63/licen) Generate license
 + [isitup](https://github.com/lord63/isitup) Check whether a website is up or down
 + [geeknote](https://github.com/VitaliyRodnenko/geeknote) Console client for Evernote
++ [rainbowstream](http://www.rainbowstream.org/) Terminal Twitter client
 
 ### npm
 + [slap](https://github.com/slap-editor/slap) A terminal-based text editor
@@ -48,6 +50,9 @@
 + [ttystudio](https://github.com/chjj/ttystudio) A terminal-to-gif recorder
 + [torrent](https://github.com/maxogden/torrent) Download/create torrents
 + [fkill](https://github.com/sindresorhus/fkill-cli) Fabulous process killer
++ [pjs](https://github.com/danielstjules/pjs) Pipeable javascript
++ [live-server](https://github.com/tapio/live-server) A http server with live reload capability
++ [cardinal](https://github.com/thlorenz/cardinal) Print JavaScript code with syntax highlighting in the terminal
 
 ### Gem
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline

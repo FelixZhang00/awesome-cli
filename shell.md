@@ -4,7 +4,7 @@
 ### brew
 
 + [autojump](https://github.com/wting/autojump) Smartly jump to your frequently used dirs
-+ [sl](https://github.com/mtoyoda/sl) Little train ~~~ 
++ [sl](https://github.com/mtoyoda/sl) Little train ~~~
 + [cowsay](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) ASCII cow
 + [toilet](http://caca.zoy.org/wiki/toilet) Print your text in another way
 + [cmatrix](http://www.asty.org/cmatrix/) Geeky screen saver
@@ -53,6 +53,8 @@
 + [pjs](https://github.com/danielstjules/pjs) Pipeable javascript
 + [live-server](https://github.com/tapio/live-server) A http server with live reload capability
 + [cardinal](https://github.com/thlorenz/cardinal) Print JavaScript code with syntax highlighting in the terminal
++ [kill-tabs](https://github.com/sindresorhus/kill-tabs) Kill all tabs in chrome to improve performance, decrease battery usage, and save memory
++ [git-fire](https://github.com/qw3rtman/git-fire) In Case of Fire...
 
 ### Gem
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline

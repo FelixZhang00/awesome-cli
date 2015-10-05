@@ -15,6 +15,7 @@
 + [youtube-dl](https://github.com/rg3/youtube-dl) Download video from youtube
 + [fortune](http://ftp.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html) Randomly generate a famous quote
 + [hub](https://hub.github.com/) Git for Github
++ [joe](https://github.com/karan/joe) A .gitignore magician in your command line
 + [archey](https://github.com/djmelik/archey) A system information tool
 + [figlet](http://www.figlet.org/) Make large letters
 + [tig](https://github.com/jonas/tig) Text-mode interface for git
@@ -55,6 +56,7 @@
 + [cardinal](https://github.com/thlorenz/cardinal) Print JavaScript code with syntax highlighting in the terminal
 + [kill-tabs](https://github.com/sindresorhus/kill-tabs) Kill all tabs in chrome to improve performance, decrease battery usage, and save memory
 + [git-fire](https://github.com/qw3rtman/git-fire) In Case of Fire...
++ [hideit](https://github.com/Voyga/hideit) Manage your hidden files on OS X
 
 ### Gem
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline

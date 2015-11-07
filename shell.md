@@ -18,6 +18,7 @@
 + [joe](https://github.com/karan/joe) A .gitignore magician in your command line
 + [archey](https://github.com/djmelik/archey) A system information tool
 + [figlet](http://www.figlet.org/) Make large letters
++ [gifify](https://github.com/jclem/gifify) Turns movies into gifs
 + [tig](https://github.com/jonas/tig) Text-mode interface for git
 + [aria2](http://aria2.sourceforge.net/) Download utility
 + [axel](http://axel.alioth.debian.org/) Download utility
@@ -55,8 +56,10 @@
 + [live-server](https://github.com/tapio/live-server) A http server with live reload capability
 + [cardinal](https://github.com/thlorenz/cardinal) Print JavaScript code with syntax highlighting in the terminal
 + [kill-tabs](https://github.com/sindresorhus/kill-tabs) Kill all tabs in chrome to improve performance, decrease battery usage, and save memory
++ [wopr](https://github.com/yaronn/wopr) A simple markup language for creating rich terminal reports, presentations and infographics
 + [git-fire](https://github.com/qw3rtman/git-fire) In Case of Fire...
 + [hideit](https://github.com/Voyga/hideit) Manage your hidden files on OS X
++ [english-dictionary-cli](https://github.com/joegesualdo/dictionary-cli) English Dictionary from the command line
 
 ### Gem
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline

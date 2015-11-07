@@ -7,11 +7,13 @@
 + [CSScomb](https://packagecontrol.io/packages/CSScomb) Format your css
 + [File Navigator](https://packagecontrol.io/packages/File%20Navigator) Navigate / manipulate files
 + [GitGutter](https://packagecontrol.io/packages/GitGutter) Show git diffs in a more beautiful way
++ [GitSavvy](https://packagecontrol.io/packages/GitSavvy) Full git and GitHub integration
 + [JSHint](https://packagecontrol.io/packages/JSHint) Check your JavaScript style
 + [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing) Clean interface for markdown editing
 + [Material Theme](https://packagecontrol.io/packages/Material%20Theme) Theme based on material design
 + [PackageResourceViewer](https://packagecontrol.io/packages/PackageResourceViewer) View package resources
 + [Project Manager](https://packagecontrol.io/packages/Project%20Manager) Manage your projects
++ [Random Everything](https://packagecontrol.io/packages/Random%20Everything) Generate random numbers, words, everything
 + [Schemr](https://packagecontrol.io/packages/Schemr) Color scheme selector
 + [SideBarEnhancements](https://packagecontrol.io/packages/SideBarEnhancements) More funcions in the sidebar
 + [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) Autocomplete engine

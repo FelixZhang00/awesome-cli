@@ -28,14 +28,6 @@
 + [aspell](http://aspell.net/) Spell check tool
 + [rig](http://rig.sourceforge.net/) Random identity generator
 
-### pip
-+ [glances](https://github.com/nicolargo/glances) Take a glance at your system
-+ [fuck](https://github.com/nvbn/thefuck) Fuck!!!
-+ [licen](https://github.com/lord63/licen) Generate license
-+ [isitup](https://github.com/lord63/isitup) Check whether a website is up or down
-+ [geeknote](https://github.com/VitaliyRodnenko/geeknote) Console client for Evernote
-+ [rainbowstream](http://www.rainbowstream.org/) Terminal Twitter client
-
 ### npm
 + [slap](https://github.com/slap-editor/slap) A terminal-based text editor
 + [spot](https://github.com/rauchg/spot) Tiny file search engine
@@ -47,6 +39,8 @@
 + [http-server](https://github.com/nodeapps/http-server) Start a simple http-server
 + [trash](https://github.com/sindresorhus/trash) A safer `rm`
 + [speed-test](https://github.com/sindresorhus/speed-test) Test your internet connection speed
++ [brightness-cli](https://github.com/kevva/brightness-cli) Change the screen brightness
++ [howold](https://github.com/Voyga/howold) Tell you your age in detail
 + [pen](https://github.com/noraesae/pen) Live preview markdown in browser
 + [wifi-password](https://github.com/kevva/wifi-password) Get current wifi password
 + [ttystudio](https://github.com/chjj/ttystudio) A terminal-to-gif recorder
@@ -60,6 +54,14 @@
 + [git-fire](https://github.com/qw3rtman/git-fire) In Case of Fire...
 + [hideit](https://github.com/Voyga/hideit) Manage your hidden files on OS X
 + [english-dictionary-cli](https://github.com/joegesualdo/dictionary-cli) English Dictionary from the command line
+
+### pip
++ [glances](https://github.com/nicolargo/glances) Take a glance at your system
++ [fuck](https://github.com/nvbn/thefuck) Fuck!!!
++ [licen](https://github.com/lord63/licen) Generate license
++ [isitup](https://github.com/lord63/isitup) Check whether a website is up or down
++ [geeknote](https://github.com/VitaliyRodnenko/geeknote) Console client for Evernote
++ [rainbowstream](http://www.rainbowstream.org/) Terminal Twitter client
 
 ### Gem
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline

@@ -1,4 +1,4 @@
-# Good CLI
+# Awesome CLI
 > List of CLI tools that are either productive or funny
 > Catigorized through package managers
 

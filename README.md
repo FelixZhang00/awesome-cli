@@ -13,12 +13,12 @@
 + [catimg](https://github.com/posva/catimg) Print an image in the terminal
 + [cowsay](https://web.archive.org/web/20120225123719/http://www.nog.net/~tony/warez/cowsay.shtml) ASCII cow
 + [task](https://taskwarrior.org/) Taskwarrior
-+ [toilet](http://caca.zoy.org/wiki/toilet) Print your text in another way
++ [toilet](http://caca.zoy.org/wiki/toilet) Print fancy text
 + [cmatrix](http://www.asty.org/cmatrix/) Geeky screen saver
 + [hr](https://github.com/LuRsT/hr) `<hr>` in your terminal
 + [wget](https://www.gnu.org/software/wget/) Retrieving files using HTTP, HTTPS and FTP
 + [jq](http://stedolan.github.io/jq/) Command-Line JSON processor
-+ [httpie](https://github.com/jkbrzt/httpie) HTTP in command line
++ [httpie](https://github.com/jkbrzt/httpie) Command-Line HTTP client
 + [youtube-dl](https://github.com/rg3/youtube-dl) Download video from youtube
 + [fortune](http://ftp.ibiblio.org/pub/linux/games/amusements/fortune/!INDEX.html) Randomly generate a famous quote
 + [jpegoptim](https://github.com/tjko/jpegoptim) Optimize and compress JPEG files
@@ -43,6 +43,8 @@
 
 > `npm install -g #{name}`
 
++ [cli-github](https://github.com/IonicaBizau/cli-github) A fancy GitHub client for command line
++ [git-stats](https://github.com/IonicaBizau/git-stats) Local git statistics including GitHub-like contributions calendars
 + [slap](https://github.com/slap-editor/slap) A terminal-based text editor
 + [spot](https://github.com/rauchg/spot) Tiny file search engine
 + [vtop](https://github.com/MrRio/vtop) A better `top`
@@ -67,8 +69,10 @@
 + [pure](https://github.com/sindresorhus/pure) Pure theme for zsh
 + [localtunnel](https://github.com/localtunnel/localtunnel) Expose your localhost to the world
 + [cardinal](https://github.com/thlorenz/cardinal) Print JavaScript code with syntax highlighting in the terminal
++ [underscore](https://github.com/ddopson/underscore-cli) Command-line utility-belt for hacking JSON and Javascript
 + [trolol](https://github.com/ukupat/trolol) Troll your friends with simple commands AS QUICKLY AS POSSIBLE
 + [kill-tabs](https://github.com/sindresorhus/kill-tabs) Kill all tabs in chrome to improve performance, decrease battery usage, and save memory
++ [yosay](https://github.com/yeoman/yosay) Yo's `cowsay` 
 + [wopr](https://github.com/yaronn/wopr) A simple markup language for creating rich terminal reports, presentations and infographics
 + [git-fire](https://github.com/qw3rtman/git-fire) In Case of Fire...
 + [hideit](https://github.com/Voyga/hideit) Manage your hidden files on OS X

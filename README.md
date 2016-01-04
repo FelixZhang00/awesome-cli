@@ -89,19 +89,23 @@
 + [isitup](https://github.com/lord63/isitup) Check whether a website is up or down
 + [geeknote](https://github.com/VitaliyRodnenko/geeknote) Console client for Evernote
 + [rainbowstream](http://www.rainbowstream.org/) Terminal Twitter client
++ [instantmusic](http://iyask.me/Instant-Music-Downloader/) Downloads Music From The Web
++ [percol](https://github.com/mooz/percol) Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
 
 ### Gem
 
 > `gem install #{name}`
 
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline
++ [pry](http://pryrepl.org/) An IRB alternative and runtime developer console
++ [githug](https://github.com/Gazler/githug) A game designed to give you a practical way of learning git
 
 ### go
 
 > `go get #{url}`
 
-+ [lsp](https://github.com/dborzov/lsp) A better `ls`
-+ [wego](https://github.com/schachmat/wego) Weather in your terminal
++ [lsp](https://github.com/dborzov/lsp) Human-friendly `ls`
++ [wego](https://github.com/schachmat/wego) Weather app in the terminal
 
 ### other
 

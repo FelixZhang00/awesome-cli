@@ -34,6 +34,9 @@
 + [axel](http://axel.alioth.debian.org/) Download utility
 + [w3m](http://w3m.sourceforge.net/) Browse webpages in command line
 + [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) zsh syntax highlighting
++ [asciinema](https://github.com/asciinema/asciinema) Terminal session recorder
++ [shml](https://maxcdn.github.io/shml/) A shell framework for faster and easier script development
++ [fpp](https://github.com/facebook/pathpicker/) A simple command line tool that solves the perpetual problem of selecting files out of bash output
 + [pandoc](http://pandoc.org/) Universal file converter
 + [jp2a](https://csl.name/jp2a/) Convert jpg to ASCII
 + [aspell](http://aspell.net/) Spell check tool
@@ -49,6 +52,7 @@
 + [spot](https://github.com/rauchg/spot) Tiny file search engine
 + [vtop](https://github.com/MrRio/vtop) A better `top`
 + [cloc](http://cloc.sourceforge.net/) Count lines of a codes
++ [caniuse](https://github.com/sgentle/caniuse-cmd) Caniuse command line tool
 + [vmd](https://github.com/yoshuawuyts/vmd) Markdown viewer based on electron
 + [Alex](http://alexjs.com/) Catch insensitive, inconsiderate writing
 + [pageres-cli](https://github.com/sindresorhus/pageres-cli) Capture website screenshots
@@ -72,19 +76,23 @@
 + [underscore](https://github.com/ddopson/underscore-cli) Command-line utility-belt for hacking JSON and Javascript
 + [trolol](https://github.com/ukupat/trolol) Troll your friends with simple commands AS QUICKLY AS POSSIBLE
 + [kill-tabs](https://github.com/sindresorhus/kill-tabs) Kill all tabs in chrome to improve performance, decrease battery usage, and save memory
++ [idea](https://github.com/IonicaBizau/idea) A lightweight CLI tool and module for keeping ideas in a safe place quick and easy
 + [yosay](https://github.com/yeoman/yosay) Yo's `cowsay` 
 + [wopr](https://github.com/yaronn/wopr) A simple markup language for creating rich terminal reports, presentations and infographics
 + [git-fire](https://github.com/qw3rtman/git-fire) In Case of Fire...
 + [hideit](https://github.com/Voyga/hideit) Manage your hidden files on OS X
 + [ornate](https://github.com/Voyga/ornate) Image Processing Tool
 + [english-dictionary-cli](https://github.com/joegesualdo/dictionary-cli) English Dictionary from the command line
++ [viewport-list-cli](https://github.com/kevva/viewport-list-cli) Return a list of devices and their viewports
++ [file-type-cli](https://github.com/sindresorhus/file-type-cli) Detect the file type of a file or stdin
++ [fanyi](https://github.com/afc163/fanyi) A translate tool in your command line.
 
 ### pip
 
 > `pip install #{name}`
 
 + [glances](https://github.com/nicolargo/glances) Take a glance at your system
-+ [fuck](https://github.com/nvbn/thefuck) Fuck!!!
++ [thefuck](https://github.com/nvbn/thefuck) Fix common shell mistakes by using an easy to remember command
 + [licen](https://github.com/lord63/licen) Generate license
 + [isitup](https://github.com/lord63/isitup) Check whether a website is up or down
 + [geeknote](https://github.com/VitaliyRodnenko/geeknote) Console client for Evernote
@@ -97,8 +105,11 @@
 > `gem install #{name}`
 
 + [boom](https://github.com/holman/boom) Store links and snippets in the commandline
++ [doing](https://github.com/ttscoff/doing/) A command line tool for keeping track of what you're doing and tracking what you've done
 + [pry](http://pryrepl.org/) An IRB alternative and runtime developer console
 + [githug](https://github.com/Gazler/githug) A game designed to give you a practical way of learning git
++ [](https://github.com/penman/font)
++ [fontcustom](https://github.com/FontCustom/fontcustom) Generate custom icon webfonts from the comfort of the command line
 
 ### go
 
